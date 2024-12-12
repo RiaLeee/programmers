@@ -1,10 +1,10 @@
 # [level 0] 빈 배열에 추가, 삭제하기 - 181860 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181860) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181860?language=python3) 
 
 ### 성능 요약
 
-메모리: 69.9 MB, 시간: 3.24 ms
+메모리: 10.3 MB, 시간: 0.15 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 12일 15:49:31
+2024년 12월 12일 16:23:07
 
 ### 문제 설명
 
