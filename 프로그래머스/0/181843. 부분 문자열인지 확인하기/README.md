@@ -1,10 +1,10 @@
 # [level 0] 부분 문자열인지 확인하기 - 181843 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181843) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181843?language=python3) 
 
 ### 성능 요약
 
-메모리: 72.6 MB, 시간: 0.03 ms
+메모리: 10.1 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 13일 20:16:27
+2025년 02월 13일 20:17:02
 
 ### 문제 설명
 
